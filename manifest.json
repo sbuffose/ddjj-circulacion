@@ -1,0 +1,22 @@
+{
+  "name": "DDJJ de Circulación Helper",
+  "version": "1.0",
+  "description": "¡Nos ayudamos entre todos!",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/flag.png"
+  },
+  "icons": {
+    "16": "images/flag.png"
+  }
+}
