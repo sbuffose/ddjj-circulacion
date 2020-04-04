@@ -1,7 +1,7 @@
 <h1>🇦🇷 DDJJ de Circulación Helper</h1>
 <h2>Permite cargar un CSV con la información de las personas que solicitan una <a href="https://formulario-ddjj.argentina.gob.ar/" target="_blank">DDJJ de Excepción para Circulación en Emergencia Sanitaria</a> – COVID 19 conforme Artículo 6º Decreto 297/2020</h2>
 
-<h3>Pasos para utilizarlo (una vez instalada la <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">extensión de chrome</a>) 👇</h3>
+<h3>Pasos para utilizarlo (una vez instalada la <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">extensión de chrome - pendinte de aprobación de Google</a>) 👇</h3>
 <p>1. Creá una copia de este <a href="https://bit.ly/348rWZf" target="_blank">Google Doc</a></p>
 <p>2. Completar las columnas (1 fila por persona) con el formato indicado</p>
 <p>3. Exportarlo cómo CSV</p>
