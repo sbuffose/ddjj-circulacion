@@ -30,8 +30,10 @@ function createCertificate() {
     number = data.number;
     chrome.storage.sync.set({number: number + 1})
   })
-
   chrome.storage.sync.get('certificates', function(data) {
+    if (number === data.certificates.length - 1) {
+      alert("Esta es la última persona en el excel.")
+    }
     nombre.value = data.certificates[number][0];
     apellido.value = data.certificates[number][1];
     dni.value = data.certificates[number][2];
@@ -40,7 +42,7 @@ function createCertificate() {
     nro_tramite_confirm.value = data.certificates[number][3];
     cuil_1.value = data.certificates[number][5].slice(0, 2);
     cuil_2.value = data.certificates[number][5].slice(2, data.certificates[number][5].length - 1);
-    cuil_3.value = data.certificates[number][5].slice(data.certificates[number][5].length - 1, 1);
+    cuil_3.value = data.certificates[number][5][data.certificates[number][5].length - 1];
     cel_cod_area.value = data.certificates[number][6];
     cel_number.value = data.certificates[number][7];
     email.value = data.certificates[number][8];
@@ -61,9 +63,6 @@ function createCertificate() {
       genero.value = "F"
     } else {
       alert("Revisar campo 'Genero'")
-    }
-    if (data.number === data.certificates.length ) {
-      alert("Esa fue la última persona en el excel.")
     }
   });
 }

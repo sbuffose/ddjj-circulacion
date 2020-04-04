@@ -18,5 +18,3 @@ fileChooser.addEventListener('change', function () {
 });
 
 fileChooser.click();
-
-
