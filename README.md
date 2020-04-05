@@ -1,7 +1,7 @@
 <h1>🇦🇷 DDJJ de Circulación Helper</h1>
 <h2>Permite cargar un CSV con la información de las personas que solicitan una <a href="https://formulario-ddjj.argentina.gob.ar/" target="_blank">DDJJ de Excepción para Circulación en Emergencia Sanitaria</a> – COVID 19 conforme Artículo 6º Decreto 297/2020</h2>
 
-<h3>Pasos para utilizarlo (una vez instalada la <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">extensión de chrome - pendinte de aprobación de Google</a>) 👇</h3>
+<h3>Pasos para utilizarlo (una vez instalada la <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">extensión de chrome</a>) 👇</h3>
 <p>1. Creá una copia de este <a href="https://bit.ly/348rWZf" target="_blank">Google Doc</a></p>
 <p>2. Completar las columnas (1 fila por persona) con el formato indicado</p>
 <p>3. Exportarlo cómo CSV</p>
@@ -13,7 +13,6 @@
 <h3>Ayuda</h3>
 <p>¿Cómo exportar a CSV de Google Sheets? <small><a href="http://www.youtube.com/watch?v=hohwVEbutAE&t=1m22s" target="_blank">Ver video explicativo</a></small></p>
 <p>¿Cómo usar la extensión? <small><a href="https://drive.google.com/file/d/1D-BLg8kWfAb6pfynD-hGabEFWUGMFUQe/view?usp=sharing" target="_blank">Ver video explicativo</a></small></p>
-<p>¿Cómo usar la extensión hasta que Google Chrome la apruebe? <small>Descargar <a href="https://drive.google.com/file/d/1fyXz4HDmbd-Ge1ilErTeVBJzMDvBnXiR/view?usp=sharing" target="_blank">este Zip</a> y descomprimirlo, luego <a href="https://drive.google.com/file/d/1lRT1n2hhFljGWO8P8pc7nbA8WZl3i0Zn/view?usp=sharing" target="_blank">ver video explicativo sobre cómo instalarlo cómo developer</a></small></p>
 
 <h3>Licencia</h3>
 
