@@ -26,6 +26,33 @@ function createCertificate() {
   const telefono_laboral = document.querySelector('#telefono_laboral');
   const patente_vehiculo = document.querySelector('#patente_vehiculo');
   const motivo_circulacion_22 = document.querySelector('#motivo_circulacion_22');
+  const provincia_code = {
+    "Buenos Aires": "AR-B",
+    "Catamarca": "AR-K",
+    "Chaco": "AR-H",
+    "Chubut": "AR-U",
+    "Ciudad Autonoma de Buenos Aires": "AR-C",
+    "Cordoba": "AR-X",
+    "Corrientes": "AR-W",
+    "Entre Rios": "AR-E",
+    "Formosa": "AR-P",
+    "Jujuy": "AR-Y",
+    "La Pampa": "AR-L",
+    "La Rioja": "AR-F",
+    "Mendoza": "AR-M",
+    "Misiones": "AR-N",
+    "Neuquen": "AR-Q",
+    "Rio Negro": "AR-R",
+    "Salta": "AR-A",
+    "San Juan": "AR-J",
+    "San Luis": "AR-D",
+    "Santa Cruz": "AR-Z",
+    "Santa Fe": "AR-S",
+    "Santiago del Estero": "AR-G",
+    "Tierra del Fuego": "AR-V",
+    "Tucuman": "AR-T"
+  }
+
   chrome.storage.sync.get('number', function(data) {
     number = data.number;
     chrome.storage.sync.set({number: number + 1})
@@ -48,7 +75,9 @@ function createCertificate() {
     email.value = data.certificates[number][8];
     email_confirm.value = data.certificates[number][8];
     direccion.value = data.certificates[number][9];
-    provincia.value = "AR-B";
+    console.log(data.certificates[number][10])
+    console.log(provincia_code[data.certificates[number][10]])
+    provincia.value = provincia_code[data.certificates[number][10]];
     localidad.value = data.certificates[number][11];
     cuit_empleador.value = data.certificates[number][12];
     actividad_profesional.value = data.certificates[number][13];
