@@ -13,7 +13,7 @@
 <h3>Ayuda</h3>
 <p>¿Cómo exportar a CSV de Google Sheets? <small><a href="http://www.youtube.com/watch?v=hohwVEbutAE&t=1m22s" target="_blank">Ver video explicativo</a></small></p>
 <p>¿Cómo usar la extensión? <small><a href="https://drive.google.com/file/d/1D-BLg8kWfAb6pfynD-hGabEFWUGMFUQe/view?usp=sharing" target="_blank">Ver video explicativo</a></small></p>
-<p>¿Cómo usar la extensión hasta que Google Chrome la apruebe? <small>Descargar <a href="https://drive.google.com/file/d/1fyXz4HDmbd-Ge1ilErTeVBJzMDvBnXiR/view?usp=sharing">este Zip</a> y descomprimirlo, luego <a href="https://drive.google.com/file/d/1lRT1n2hhFljGWO8P8pc7nbA8WZl3i0Zn/view?usp=sharing" target="_blank">ver video explicativo sobre cómo instalarlo cómo developer</a></small></p>
+<p>¿Cómo usar la extensión hasta que Google Chrome la apruebe? <small>Descargar <a href="https://drive.google.com/file/d/1fyXz4HDmbd-Ge1ilErTeVBJzMDvBnXiR/view?usp=sharing" target="_blank">este Zip</a> y descomprimirlo, luego <a href="https://drive.google.com/file/d/1lRT1n2hhFljGWO8P8pc7nbA8WZl3i0Zn/view?usp=sharing" target="_blank">ver video explicativo sobre cómo instalarlo cómo developer</a></small></p>
 
 <h3>Licencia</h3>
 
