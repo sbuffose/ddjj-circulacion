@@ -1,8 +1,9 @@
 <h1>🇦🇷 DDJJ de Circulación Helper</h1>
 <h2>Permite cargar un CSV con la información de las personas que solicitan una <a href="https://formulario-ddjj.argentina.gob.ar/" target="_blank">DDJJ de Excepción para Circulación en Emergencia Sanitaria</a> – COVID 19 conforme Artículo 6º Decreto 297/2020</h2>
 
-<h3>Pasos para utilizarlo (una vez instalada la <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">extensión de chrome</a>) 👇</h3>
-<p>1. Creá una copia de este <a href="https://bit.ly/348rWZf" target="_blank">Google Doc</a></p>
+<h3>Pasos para utilizarlo 👇</h3>
+<p>0. Instalar <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">esta extensión de Google Chrome</a></p>
+<p>1. Crear una copia de este <a href="https://bit.ly/348rWZf" target="_blank">Google Doc</a></p>
 <p>2. Completar las columnas (1 fila por persona) con el formato indicado</p>
 <p>3. Exportarlo cómo CSV</p>
 <p>4. Cargar Excel</p>
@@ -10,10 +11,12 @@
 <p>6. 'Completar próximo certificado' rellenará la información para cada línea del Excel cargado (de a 1 por vez)</p>
 <p>7. Validar el Re-Captcha, marcar motivo y solicitar certificado</p>
 <p>8. Repetir pasos 5 y 6 hasta terminar</p>
+<br>
 <h3>Ayuda</h3>
+<p>¿Cómo realizar una copia de Google Docs? <small><a href="https://www.youtube.com/watch?v=2BoNU4qmiuw" target="_blank">Ver video explicativo</a></small></p>
 <p>¿Cómo exportar a CSV de Google Sheets? <small><a href="http://www.youtube.com/watch?v=hohwVEbutAE&t=1m22s" target="_blank">Ver video explicativo</a></small></p>
 <p>¿Cómo usar la extensión? <small><a href="https://drive.google.com/file/d/1D-BLg8kWfAb6pfynD-hGabEFWUGMFUQe/view?usp=sharing" target="_blank">Ver video explicativo</a></small></p>
-
+<br>
 <h3>Licencia</h3>
 
 <p><b>MIT License</b></p>
