@@ -4,7 +4,7 @@
 <h3>Pasos para utilizarlo 👇</h3>
 <p>0. Instalar <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">esta extensión de Google Chrome</a></p>
 <p>1. Crear una copia de este <a href="https://bit.ly/348rWZf" target="_blank">Google Doc</a></p>
-<p>2. Completar las columnas (1 fila por persona) con el formato indicado</p>
+<p>2. Completar las columnas (1 fila por persona) con el formato indicado (⚠️ No usar ",")</p>
 <p>3. Exportarlo cómo CSV</p>
 <p>4. Cargar Excel</p>
 <p>5. Abrir/ir a la <a target="_blank" href="https://formulario-ddjj.argentina.gob.ar/">web oficial</a></p>
